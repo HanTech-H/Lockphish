@@ -6,4 +6,4 @@ don't install this tools for any illegal purpose we are not responsible for our 
 python3 Lockphish
 
 # lockphish 
-#by click_to_install
+# by click_to_install
